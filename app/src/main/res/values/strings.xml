@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TRecyclerView</string>
+    <string name="pull_bottom_refresh">下拉刷新</string>
+    <string name="release_refresh">释放刷新</string>
+    <string name="refreshing">正在刷新</string>
+    <string name="refresh_complete">刷新完成</string>
+    <string name="loading">正在拼命加载中...</string>
+    <string name="load_complete">加载完成</string>
+    <string name="load_no_more">别拉了，我也是有底线的</string>
+</resources>
